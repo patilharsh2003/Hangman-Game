@@ -4,9 +4,9 @@ One player thinks of a word, phrase, or sentence and the other(s) tries to guess
 You can provide upto 6 uncorrect guesses then you lose.
 To run this game on your system follow steps given below
 1. Clone this repository.
-2. Make sure ypu have python3 installed in your system.
-3. Make sure to put the files in one directory.
-4. Select the directory Hangman and open terminal in it.
+2. Make sure you have python3 installed in your system.
+3. Make sure to put all the files in one directory.
+4. Select the directory Hangman-Game and open terminal in it.
 
 ## Deployment
 
